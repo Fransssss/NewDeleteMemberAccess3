@@ -100,6 +100,8 @@ int main()
        cout << "choice: ";
        cin >> choice;
    }
+   
+   delete intern;                                                  // Free allocated memeory
 
    if(choice == "e" or choice != "E")
    {
