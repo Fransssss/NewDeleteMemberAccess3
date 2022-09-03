@@ -3,6 +3,12 @@
 
 Objectives:
 
+- Create pointer type class
+- Use 'new' to allocate memeory
+- Use '->' to access class' members/methods
+- Use 'delete' to free allocated memory
+- Capitalize name of food
+
 Example Output
 
 ![image](https://user-images.githubusercontent.com/97081479/188204283-b544c3c5-a87e-4fdd-bd98-1bbc3e7a3391.png)
